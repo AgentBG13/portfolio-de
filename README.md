@@ -8,4 +8,4 @@ Welcome to my portfolio! This site highlights my projects and professional backg
 - JavaScript
 
 ## Deployment
-This project is hosted on [GitHub Pages](https://pages.github.com/).
+This project is hosted on [GitHub Pages](https://pages.github.com/). The website files are located in the `docs/` folder.
